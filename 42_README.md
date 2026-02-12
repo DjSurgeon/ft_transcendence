@@ -14,3 +14,7 @@
 
 ## Status
 🟡 Planning & architecture definition
+
+## Tools
+- Version control: Github
+- Project management: Github Projects
