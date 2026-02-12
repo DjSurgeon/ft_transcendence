@@ -17,3 +17,8 @@ To ensure code quality and team synchronization, we have implemented the followi
 - Open a Pull Request against the develop branch.
 - Wait for a Peer Review and resolve any requested changes.
 - Once approved and tested, the code will be merged.
+
+## Other rules
+
+- A refactor that changes behavior is not a refactor — it’s a feature or a bug.
+- If a feature changes behavior, documentation must change too.
