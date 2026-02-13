@@ -22,6 +22,26 @@ We have established five specific templates to standardize our work. **Every tas
 - **🔨 Code Refactor**: To improve code quality and readability without changing functionality.
 - **🔬 Technical Spike**: Research tasks (e.g., investigating WebSockets or Blockchain). Used to answer technical questions before implementation.
 
+### Labeling Strategy
+
+To maintain a professional repository and track our progress toward the **14-point goal**, every Issue must be labeled using the following combinations:
+
+| Task Type | Required Label Combination | Purpose |
+| --- | --- | --- |
+| **Major Module** | `feature` + `module-category` + `points-2` | Implementation of a 2-point module. |
+| **Minor Module** | `feature` + `module-category` + `points-1` | Implementation of a 1-point module. |
+| **Mandatory Part** | `feature` + `priority-high` | Core features required for the project base. |
+| **Research/POC** | `spike` + `priority-medium` | Technical investigation before coding. |
+| **Bug Fix** | `bug` + `priority-critical/high` | Resolving errors (Zero warnings allowed). |
+| **Peer Review** | `needs-review` | Signaling that a PR is ready for a teammate. |
+
+#### How to use Labels effectively:
+
+- **Point Tracking**: The `points-X` labels are mandatory for all modules to ensure we reach the minimum score.
+- **Blocker Visibility**: If you cannot proceed, add the `blocked` label and move the issue to the **Impediments Board**.
+- **Evaluation Readiness**: Labels provide a visual audit of who worked on which module, which is a key requirement for the final evaluation.
+
+
 ---
 
 ## 3. The "Definition of Done" (DoD)
