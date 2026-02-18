@@ -7,6 +7,7 @@
 | **serjimen** | **Project Manager / Scrum Master / Developer** | Facilitating team coordination, managing GitHub Projects, removing obstacles, and tracking deadlines. |
 | **vjan-nie** | **Technical Lead / Architect / Developer** | Overseeing technical decisions, architecture design, and code quality. |
 | **alcacere** | **Developer** | Implementing features, writing documentation, and performing tests. |
+| **danfern3** | **Developer** | Implementing features, writing documentation, and performing tests. |
 
 ## 2. Project Management
 * **Organization:** We follow an Agile-lite methodology with weekly sync meetings and daily updates.

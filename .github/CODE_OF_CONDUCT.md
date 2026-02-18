@@ -6,6 +6,7 @@
 |Sergio|djsurgeon83@gmail.com|serjimen|Scrum master, developer|
 |Vadim|vjannieto@gmail.com|vjan-nie|Technical lead, developer|
 |Alex| - |alcacere|Developer|
+|Dani|daniel17dev@gmail.com|danfern3|Developer|
 
 ## Product Owner
 
